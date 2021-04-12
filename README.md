@@ -5,5 +5,5 @@
 </a>
 <br>
 <a href="https://github.com/quoniammm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoniammm&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoniammm" />
 </a>
