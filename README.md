@@ -1,12 +1,7 @@
-### Hi there 👋
-
-<!--
-**quoniammm/quoniammm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on coding my life.
+### Hi. It's quoniammm
 
 <a href="https://github.com/quoniammm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zzy99&count_private=true&show_icons=true&theme=material-palenight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=quoniammm&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/quoniammm">
